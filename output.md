@@ -1,5 +1,6 @@
-
 ## Page 1
+
+**Text:**
 
 AMZ Consulting Pty Ltd
 POWER BI 
@@ -15,9 +16,14 @@ Just Power BI
 Author: Ali Noorani  
 2022 Edition
 
-![Image Page 1 - 0](images/page1_img0.png)
+**Image 1:**
+![page1_img1.png](images/page1_img1.png)
+
+---
 
 ## Page 2
+
+**Text:**
 
 Power BI Crash Course 
  
@@ -52,19 +58,30 @@ no part of this publication may be reproduced in any form, or stored in a databa
 or transmitted or distributed in any form by any means, electronic, mechanical photocopying, 
 recording, or otherwise without written permission from AMZ Consulting Pty Ltd.
 
-![Image Page 2 - 0](images/page2_img0.png)
+**Image 1:**
+![page2_img1.png](images/page2_img1.png)
+
+---
 
 ## Page 3
+
+**Text:**
 
 Power BI Beginner Crash Course: 
 Getting Started with Power BI 
 https://www.powerbitraining.com.au/
 
-![Image Page 3 - 0](images/page3_img0.png)
+**Image 1:**
+![page3_img1.png](images/page3_img1.png)
 
-![Image Page 3 - 1](images/page3_img1.png)
+**Image 2:**
+![page3_img2.jpeg](images/page3_img2.jpeg)
+
+---
 
 ## Page 4
+
+**Text:**
 
 Chapter 1: Introduction to Power BI 
 ▪ What is Power BI 
@@ -103,7 +120,11 @@ CHAPTER 6                                                           | 5 minutes
 Chapter 6: Introduction to Data Modeling 
 ▪ Understanding Data Modeling
 
+---
+
 ## Page 5
+
+**Text:**
 
 ▪ 
 Contents 
@@ -128,7 +149,11 @@ Chapter 9: Publish and Share
 ▪ Save and Publish to My Workspace 
 ▪ Sharing the Report
 
+---
+
 ## Page 6
+
+**Text:**
 
 CHAPTER 1: INTRODUCTION TO POWER BI 
 1 | P a g e                                                      
@@ -169,9 +194,14 @@ Chapter 1
 ➢ Power BI Mobile 
 ✓ Competitive Advantages of Power BI
 
-![Image Page 6 - 0](images/page6_img0.png)
+**Image 1:**
+![page6_img1.png](images/page6_img1.png)
+
+---
 
 ## Page 7
+
+**Text:**
 
 CHAPTER 1: INTRODUCTION TO POWER BI 
 2 | P a g e                                                      
@@ -208,19 +238,14 @@ reports in Power BI
 Service.
 Collaboration
 
-![Image Page 7 - 0](images/page7_img0.png)
+**Image 1:**
+![page7_img1.png](images/page7_img1.png)
 
-![Image Page 7 - 1](images/page7_img1.png)
-
-![Image Page 7 - 2](images/page7_img2.png)
-
-![Image Page 7 - 3](images/page7_img3.png)
-
-![Image Page 7 - 4](images/page7_img4.png)
-
-![Image Page 7 - 5](images/page7_img5.png)
+---
 
 ## Page 8
+
+**Text:**
 
 CHAPTER 1: INTRODUCTION TO POWER BI 
 3 | P a g e                                                      
@@ -275,9 +300,14 @@ Sharing Reports
 ✖ 
 ✓
 
-![Image Page 8 - 0](images/page8_img0.png)
+**Image 1:**
+![page8_img1.png](images/page8_img1.png)
+
+---
 
 ## Page 9
+
+**Text:**
 
 CHAPTER 1: INTRODUCTION TO POWER BI 
 4 | P a g e                                                      
@@ -301,11 +331,14 @@ Spark clusters, and almost all the popular online services.
 anomaly detection capabilities and smart narratives which utilizes Natural Language 
 Generation (NLG) technique.
 
-![Image Page 9 - 0](images/page9_img0.png)
+**Image 1:**
+![page9_img1.png](images/page9_img1.png)
 
-![Image Page 9 - 1](images/page9_img1.png)
+---
 
 ## Page 10
+
+**Text:**
 
 CHAPTER 2: GETTING STARTED WITH POWER BI 
 5 | P a g e                                                      
@@ -339,9 +372,14 @@ Account
 ➢ Power BI Premium 
 ✓ Downloading Power BI Desktop
 
-![Image Page 10 - 0](images/page10_img0.png)
+**Image 1:**
+![page10_img1.png](images/page10_img1.png)
+
+---
 
 ## Page 11
+
+**Text:**
 
 CHAPTER 2: GETTING STARTED WITH POWER BI 
 6 | P a g e                                                      
@@ -361,17 +399,20 @@ To get started:
 5. Enter your details.  
 6. Click Next.
 
-![Image Page 11 - 0](images/page11_img0.png)
+**Image 1:**
+![page11_img1.png](images/page11_img1.png)
 
-![Image Page 11 - 1](images/page11_img1.png)
+**Image 3:**
+![page11_img3.jpeg](images/page11_img3.jpeg)
 
-![Image Page 11 - 2](images/page11_img2.png)
+**Image 5:**
+![page11_img5.png](images/page11_img5.png)
 
-![Image Page 11 - 3](images/page11_img3.png)
-
-![Image Page 11 - 4](images/page11_img4.png)
+---
 
 ## Page 12
+
+**Text:**
 
 CHAPTER 2: GETTING STARTED WITH POWER BI 
 7 | P a g e                                                      
@@ -382,13 +423,17 @@ CHAPTER 2: GETTING STARTED WITH POWER BI
 complete.  
 You have successfully registered for an Office365 Business Basic account.
 
-![Image Page 12 - 0](images/page12_img0.png)
+**Image 1:**
+![page12_img1.png](images/page12_img1.png)
 
-![Image Page 12 - 1](images/page12_img1.png)
+**Image 3:**
+![page12_img3.png](images/page12_img3.png)
 
-![Image Page 12 - 2](images/page12_img2.png)
+---
 
 ## Page 13
+
+**Text:**
 
 CHAPTER 2: GETTING STARTED WITH POWER BI 
 8 | P a g e                                                      
@@ -423,11 +468,14 @@ Microsoft’s shared capacity hence your operations can’t be slowed down.
  It also allows users with free licenses to consume shared reports and dashboards with a 
 Premium Capacity Workspace.
 
-![Image Page 13 - 0](images/page13_img0.png)
+**Image 1:**
+![page13_img1.png](images/page13_img1.png)
 
-![Image Page 13 - 1](images/page13_img1.png)
+---
 
 ## Page 14
+
+**Text:**
 
 CHAPTER 2: GETTING STARTED WITH POWER BI 
 9 | P a g e                                                      
@@ -448,21 +496,26 @@ A pop-up appears as Power BI is available at the Microsoft Store for Windows use
  
 6. Run the setup file to install Power BI Desktop.
 
-![Image Page 14 - 0](images/page14_img0.png)
+**Image 1:**
+![page14_img1.png](images/page14_img1.png)
 
-![Image Page 14 - 1](images/page14_img1.png)
+**Image 3:**
+![page14_img3.png](images/page14_img3.png)
 
-![Image Page 14 - 2](images/page14_img2.png)
+**Image 4:**
+![page14_img4.png](images/page14_img4.png)
 
-![Image Page 14 - 3](images/page14_img3.png)
+**Image 5:**
+![page14_img5.png](images/page14_img5.png)
 
-![Image Page 14 - 4](images/page14_img4.png)
+**Image 7:**
+![page14_img7.png](images/page14_img7.png)
 
-![Image Page 14 - 5](images/page14_img5.png)
-
-![Image Page 14 - 6](images/page14_img6.png)
+---
 
 ## Page 15
+
+**Text:**
 
 CHAPTER 2: GETTING STARTED WITH POWER BI 
 10 | P a g e                                                      
@@ -473,13 +526,20 @@ CHAPTER 2: GETTING STARTED WITH POWER BI
 email address and password. 
 9. You can now use Power BI Desktop and access the complete array of features.
 
-![Image Page 15 - 0](images/page15_img0.png)
+**Image 1:**
+![page15_img1.png](images/page15_img1.png)
 
-![Image Page 15 - 1](images/page15_img1.png)
+**Image 2:**
+![page15_img2.png](images/page15_img2.png)
 
-![Image Page 15 - 2](images/page15_img2.png)
+**Image 3:**
+![page15_img3.png](images/page15_img3.png)
+
+---
 
 ## Page 16
+
+**Text:**
 
 CHAPTER 3: POWER BI DESKTOP NAVIGATION 
 11 | P a g e                                                      
@@ -527,9 +587,14 @@ Chapter 3
 ➢ Query Settings 
 ➢ Data View
 
-![Image Page 16 - 0](images/page16_img0.png)
+**Image 1:**
+![page16_img1.png](images/page16_img1.png)
+
+---
 
 ## Page 17
+
+**Text:**
 
 CHAPTER 3: POWER BI DESKTOP NAVIGATION 
 12 | P a g e                                                      
@@ -547,13 +612,20 @@ Power BI Desktop has four different sections for navigation purposes:
 4. Power Query Editor 
 We will discuss these in detail one by one in the next section.
 
-![Image Page 17 - 0](images/page17_img0.png)
+**Image 1:**
+![page17_img1.png](images/page17_img1.png)
 
-![Image Page 17 - 1](images/page17_img1.png)
+**Image 2:**
+![page17_img2.png](images/page17_img2.png)
 
-![Image Page 17 - 2](images/page17_img2.png)
+**Image 3:**
+![page17_img3.png](images/page17_img3.png)
+
+---
 
 ## Page 18
+
+**Text:**
 
 CHAPTER 3: POWER BI DESKTOP NAVIGATION 
 13 | P a g e                                                      
@@ -571,21 +643,23 @@ options to help you with report creation and publishing.
 Insert: This tab of the ribbon menu contains all the options related to adding new 
 components to the report.
 
-![Image Page 18 - 0](images/page18_img0.png)
+**Image 1:**
+![page18_img1.png](images/page18_img1.png)
 
-![Image Page 18 - 1](images/page18_img1.png)
+**Image 3:**
+![page18_img3.jpeg](images/page18_img3.jpeg)
 
-![Image Page 18 - 2](images/page18_img2.png)
+**Image 5:**
+![page18_img5.png](images/page18_img5.png)
 
-![Image Page 18 - 3](images/page18_img3.png)
+**Image 7:**
+![page18_img7.png](images/page18_img7.png)
 
-![Image Page 18 - 4](images/page18_img4.png)
-
-![Image Page 18 - 5](images/page18_img5.png)
-
-![Image Page 18 - 6](images/page18_img6.png)
+---
 
 ## Page 19
+
+**Text:**
 
 CHAPTER 3: POWER BI DESKTOP NAVIGATION 
 14 | P a g e                                                      
@@ -597,25 +671,26 @@ View: – This tab of the ribbon menu contains options related to the user inter
  
 Help: – This tab of the ribbon menu contains multiple options to get help from.
 
-![Image Page 19 - 0](images/page19_img0.png)
+**Image 1:**
+![page19_img1.png](images/page19_img1.png)
 
-![Image Page 19 - 1](images/page19_img1.png)
+**Image 3:**
+![page19_img3.jpeg](images/page19_img3.jpeg)
 
-![Image Page 19 - 2](images/page19_img2.png)
+**Image 5:**
+![page19_img5.jpeg](images/page19_img5.jpeg)
 
-![Image Page 19 - 3](images/page19_img3.png)
+**Image 7:**
+![page19_img7.png](images/page19_img7.png)
 
-![Image Page 19 - 4](images/page19_img4.png)
+**Image 9:**
+![page19_img9.png](images/page19_img9.png)
 
-![Image Page 19 - 5](images/page19_img5.png)
-
-![Image Page 19 - 6](images/page19_img6.png)
-
-![Image Page 19 - 7](images/page19_img7.png)
-
-![Image Page 19 - 8](images/page19_img8.png)
+---
 
 ## Page 20
+
+**Text:**
 
 CHAPTER 3: POWER BI DESKTOP NAVIGATION 
 15 | P a g e                                                      
@@ -630,13 +705,17 @@ using different visual techniques.
 3. Relationships: - You can visually see the relationship between tables here. You 
 can also rearrange and connect different tables to form a data model.
 
-![Image Page 20 - 0](images/page20_img0.png)
+**Image 1:**
+![page20_img1.png](images/page20_img1.png)
 
-![Image Page 20 - 1](images/page20_img1.png)
+**Image 3:**
+![page20_img3.png](images/page20_img3.png)
 
-![Image Page 20 - 2](images/page20_img2.png)
+---
 
 ## Page 21
+
+**Text:**
 
 CHAPTER 3: POWER BI DESKTOP NAVIGATION 
 16 | P a g e                                                      
@@ -652,13 +731,20 @@ found in this tab.
 3. Filters Pane: In the Filters pane, you can configure new filters, and update 
 existing filters.
 
-![Image Page 21 - 0](images/page21_img0.png)
+**Image 1:**
+![page21_img1.png](images/page21_img1.png)
 
-![Image Page 21 - 1](images/page21_img1.png)
+**Image 2:**
+![page21_img2.png](images/page21_img2.png)
 
-![Image Page 21 - 2](images/page21_img2.png)
+**Image 3:**
+![page21_img3.png](images/page21_img3.png)
+
+---
 
 ## Page 22
+
+**Text:**
 
 CHAPTER 3: POWER BI DESKTOP NAVIGATION 
 17 | P a g e                                                      
@@ -683,17 +769,23 @@ in data cleaning and transformation.
 cleaning and transformation. 
 4. Data View: This area shows a tabular view of your data.
 
-![Image Page 22 - 0](images/page22_img0.png)
+**Image 1:**
+![page22_img1.png](images/page22_img1.png)
 
-![Image Page 22 - 1](images/page22_img1.png)
+**Image 3:**
+![page22_img3.png](images/page22_img3.png)
 
-![Image Page 22 - 2](images/page22_img2.png)
+**Image 4:**
+![page22_img4.png](images/page22_img4.png)
 
-![Image Page 22 - 3](images/page22_img3.png)
+**Image 5:**
+![page22_img5.png](images/page22_img5.png)
 
-![Image Page 22 - 4](images/page22_img4.png)
+---
 
 ## Page 23
+
+**Text:**
 
 CHAPTER 4: GETTING DATA FROM DATA SOURCES  
 18 | P a g e                                                      
@@ -727,9 +819,14 @@ Chapter 4
 ➢ Other 
 ✓ Getting Data from Excel
 
-![Image Page 23 - 0](images/page23_img0.png)
+**Image 1:**
+![page23_img1.png](images/page23_img1.png)
+
+---
 
 ## Page 24
+
+**Text:**
 
 CHAPTER 4: GETTING DATA FROM DATA SOURCES  
 19 | P a g e                                                      
@@ -758,13 +855,20 @@ Other:
 You can also connect to other data sources like Web, R scripts, Hadoop files, ODBC, 
 Active Directory and Microsoft Exchange here.
 
-![Image Page 24 - 0](images/page24_img0.png)
+**Image 1:**
+![page24_img1.png](images/page24_img1.png)
 
-![Image Page 24 - 1](images/page24_img1.png)
+**Image 2:**
+![page24_img2.png](images/page24_img2.png)
 
-![Image Page 24 - 2](images/page24_img2.png)
+**Image 3:**
+![page24_img3.png](images/page24_img3.png)
+
+---
 
 ## Page 25
+
+**Text:**
 
 CHAPTER 4: GETTING DATA FROM DATA SOURCES  
 20 | P a g e                                                      
@@ -789,17 +893,23 @@ Sometimes you need to change the path of your source file. You just need to hit 
 >Transform data>Data Source Settings. Here you can browse your desired file path. This 
 will update the source and refreshing your report will shw the impact as well.
 
-![Image Page 25 - 0](images/page25_img0.png)
+**Image 1:**
+![page25_img1.png](images/page25_img1.png)
 
-![Image Page 25 - 1](images/page25_img1.png)
+**Image 3:**
+![page25_img3.jpeg](images/page25_img3.jpeg)
 
-![Image Page 25 - 2](images/page25_img2.png)
+**Image 4:**
+![page25_img4.png](images/page25_img4.png)
 
-![Image Page 25 - 3](images/page25_img3.png)
+**Image 5:**
+![page25_img5.jpeg](images/page25_img5.jpeg)
 
-![Image Page 25 - 4](images/page25_img4.png)
+---
 
 ## Page 26
+
+**Text:**
 
 CHAPTER 5: DATA TRANSFORMATION   
 21 | P a g e                                                      
@@ -860,9 +970,14 @@ Boolean
 ✓ Removing Errors 
 ✓ Removing Duplicates
 
-![Image Page 26 - 0](images/page26_img0.png)
+**Image 1:**
+![page26_img1.png](images/page26_img1.png)
+
+---
 
 ## Page 27
+
+**Text:**
 
 CHAPTER 5: DATA TRANSFORMATION   
 22 | P a g e                                                      
@@ -880,25 +995,26 @@ The top 2 rows are empty and need to be removed.
  
 7. Click OK.
 
-![Image Page 27 - 0](images/page27_img0.png)
+**Image 1:**
+![page27_img1.png](images/page27_img1.png)
 
-![Image Page 27 - 1](images/page27_img1.png)
+**Image 3:**
+![page27_img3.jpeg](images/page27_img3.jpeg)
 
-![Image Page 27 - 2](images/page27_img2.png)
+**Image 5:**
+![page27_img5.jpeg](images/page27_img5.jpeg)
 
-![Image Page 27 - 3](images/page27_img3.png)
+**Image 7:**
+![page27_img7.png](images/page27_img7.png)
 
-![Image Page 27 - 4](images/page27_img4.png)
+**Image 9:**
+![page27_img9.png](images/page27_img9.png)
 
-![Image Page 27 - 5](images/page27_img5.png)
-
-![Image Page 27 - 6](images/page27_img6.png)
-
-![Image Page 27 - 7](images/page27_img7.png)
-
-![Image Page 27 - 8](images/page27_img8.png)
+---
 
 ## Page 28
+
+**Text:**
 
 CHAPTER 5: DATA TRANSFORMATION   
 23 | P a g e                                                      
@@ -913,17 +1029,20 @@ To promote the first row to column header names:
  
 The column names in the first row will be promoted to column header names.
 
-![Image Page 28 - 0](images/page28_img0.png)
+**Image 1:**
+![page28_img1.png](images/page28_img1.png)
 
-![Image Page 28 - 1](images/page28_img1.png)
+**Image 3:**
+![page28_img3.png](images/page28_img3.png)
 
-![Image Page 28 - 2](images/page28_img2.png)
+**Image 5:**
+![page28_img5.png](images/page28_img5.png)
 
-![Image Page 28 - 3](images/page28_img3.png)
-
-![Image Page 28 - 4](images/page28_img4.png)
+---
 
 ## Page 29
+
+**Text:**
 
 CHAPTER 5: DATA TRANSFORMATION   
 24 | P a g e                                                      
@@ -946,23 +1065,26 @@ when dealing with large queries) is the Choose Column option.
  
 6. Click OK.
 
-![Image Page 29 - 0](images/page29_img0.png)
+**Image 1:**
+![page29_img1.png](images/page29_img1.png)
 
-![Image Page 29 - 1](images/page29_img1.png)
+**Image 3:**
+![page29_img3.png](images/page29_img3.png)
 
-![Image Page 29 - 2](images/page29_img2.png)
+**Image 5:**
+![page29_img5.png](images/page29_img5.png)
 
-![Image Page 29 - 3](images/page29_img3.png)
+**Image 7:**
+![page29_img7.png](images/page29_img7.png)
 
-![Image Page 29 - 4](images/page29_img4.png)
+**Image 8:**
+![page29_img8.png](images/page29_img8.png)
 
-![Image Page 29 - 5](images/page29_img5.png)
-
-![Image Page 29 - 6](images/page29_img6.png)
-
-![Image Page 29 - 7](images/page29_img7.png)
+---
 
 ## Page 30
+
+**Text:**
 
 CHAPTER 5: DATA TRANSFORMATION   
 25 | P a g e                                                      
@@ -978,15 +1100,17 @@ To Rename a column:
 8. Click on Value column to rename it to Sale Price. 
 9. Click on RetCity and rename it to Retailer City.
 
-![Image Page 30 - 0](images/page30_img0.png)
+**Image 1:**
+![page30_img1.png](images/page30_img1.png)
 
-![Image Page 30 - 1](images/page30_img1.png)
+**Image 4:**
+![page30_img4.png](images/page30_img4.png)
 
-![Image Page 30 - 2](images/page30_img2.png)
-
-![Image Page 30 - 3](images/page30_img3.png)
+---
 
 ## Page 31
+
+**Text:**
 
 CHAPTER 5: DATA TRANSFORMATION   
 26 | P a g e                                                      
@@ -1017,11 +1141,14 @@ characters. Data stored under this data type will have no impact on numerical ca
 Boolean: 
   True/False: This data type sets a value to either True or False only.
 
-![Image Page 31 - 0](images/page31_img0.png)
+**Image 1:**
+![page31_img1.png](images/page31_img1.png)
 
-![Image Page 31 - 1](images/page31_img1.png)
+---
 
 ## Page 32
+
+**Text:**
 
 CHAPTER 5: DATA TRANSFORMATION   
 27 | P a g e                                                      
@@ -1034,13 +1161,17 @@ To remove errors:
 2. Right-click on the Quantity Sold column header. 
 3. Click on Remove Errors from the dropdown list.
 
-![Image Page 32 - 0](images/page32_img0.png)
+**Image 1:**
+![page32_img1.png](images/page32_img1.png)
 
-![Image Page 32 - 1](images/page32_img1.png)
+**Image 3:**
+![page32_img3.jpeg](images/page32_img3.jpeg)
 
-![Image Page 32 - 2](images/page32_img2.png)
+---
 
 ## Page 33
+
+**Text:**
 
 CHAPTER 5: DATA TRANSFORMATION   
 28 | P a g e                                                      
@@ -1062,21 +1193,23 @@ column header to select both.
 To learn more about Data Transformation: 
 https://www.powerbitraining.com.au/category/data-transformation/
 
-![Image Page 33 - 0](images/page33_img0.png)
+**Image 1:**
+![page33_img1.png](images/page33_img1.png)
 
-![Image Page 33 - 1](images/page33_img1.png)
+**Image 3:**
+![page33_img3.png](images/page33_img3.png)
 
-![Image Page 33 - 2](images/page33_img2.png)
+**Image 5:**
+![page33_img5.jpeg](images/page33_img5.jpeg)
 
-![Image Page 33 - 3](images/page33_img3.png)
+**Image 7:**
+![page33_img7.jpeg](images/page33_img7.jpeg)
 
-![Image Page 33 - 4](images/page33_img4.png)
-
-![Image Page 33 - 5](images/page33_img5.png)
-
-![Image Page 33 - 6](images/page33_img6.png)
+---
 
 ## Page 34
+
+**Text:**
 
 CHAPTER 6: INTRODUCTION TO DATA MODELING 
 29 | P a g e                                                      
@@ -1116,9 +1249,14 @@ Chapter 6
 ✓ Deleting Relationships 
 ✓ Creating New Relationships: Drag and Drop
 
-![Image Page 34 - 0](images/page34_img0.png)
+**Image 1:**
+![page34_img1.png](images/page34_img1.png)
+
+---
 
 ## Page 35
+
+**Text:**
 
 CHAPTER 6: INTRODUCTION TO DATA MODELING 
 30 | P a g e                                                      
@@ -1140,13 +1278,20 @@ Tables having Primary keys are referred to as Dimension Tables or Lookup Tables.
 Tables having foreign keys are referred to as Fact Tables or Data Tables. Usually, in a data 
 model, there is a single Fact Table surrounded by multiple Dimension Tables.
 
-![Image Page 35 - 0](images/page35_img0.png)
+**Image 1:**
+![page35_img1.png](images/page35_img1.png)
 
-![Image Page 35 - 1](images/page35_img1.png)
+**Image 2:**
+![page35_img2.png](images/page35_img2.png)
 
-![Image Page 35 - 2](images/page35_img2.png)
+**Image 3:**
+![page35_img3.png](images/page35_img3.png)
+
+---
 
 ## Page 36
+
+**Text:**
 
 CHAPTER 6: INTRODUCTION TO DATA MODELING 
 31 | P a g e                                                      
@@ -1185,9 +1330,14 @@ and the most common type of cardinality.
 Cross filtering Direction: The “Both” Cross Filter Direction type is used in rather complex 
 data models and should be used with caution as it may lead to unexpected results.
 
-![Image Page 36 - 0](images/page36_img0.png)
+**Image 1:**
+![page36_img1.png](images/page36_img1.png)
+
+---
 
 ## Page 37
+
+**Text:**
 
 CHAPTER 6: INTRODUCTION TO DATA MODELING 
 32 | P a g e                                                      
@@ -1205,17 +1355,23 @@ keyboard
  
 The line connecting the tables disappears.
 
-![Image Page 37 - 0](images/page37_img0.png)
+**Image 1:**
+![page37_img1.png](images/page37_img1.png)
 
-![Image Page 37 - 1](images/page37_img1.png)
+**Image 3:**
+![page37_img3.png](images/page37_img3.png)
 
-![Image Page 37 - 2](images/page37_img2.png)
+**Image 4:**
+![page37_img4.png](images/page37_img4.png)
 
-![Image Page 37 - 3](images/page37_img3.png)
+**Image 5:**
+![page37_img5.png](images/page37_img5.png)
 
-![Image Page 37 - 4](images/page37_img4.png)
+---
 
 ## Page 38
+
+**Text:**
 
 CHAPTER 6: INTRODUCTION TO DATA MODELING 
 33 | P a g e                                                      
@@ -1244,11 +1400,17 @@ A relationship line will appear connecting the Product Table and the Sales Table
  Visit the following link to read blogs about Data Modelling: 
 https://www.powerbitraining.com.au/category/data-modeling/
 
-![Image Page 38 - 0](images/page38_img0.png)
+**Image 1:**
+![page38_img1.png](images/page38_img1.png)
 
-![Image Page 38 - 1](images/page38_img1.png)
+**Image 2:**
+![page38_img2.png](images/page38_img2.png)
+
+---
 
 ## Page 39
+
+**Text:**
 
 CHAPTER 7: INTRODUCTION TO DAX 
 34 | P a g e                                                      
@@ -1278,9 +1440,14 @@ Chapter 7
 ✓ Defining Calculated Columns 
 ✓ Defining a Calculated Measure
 
-![Image Page 39 - 0](images/page39_img0.png)
+**Image 1:**
+![page39_img1.png](images/page39_img1.png)
+
+---
 
 ## Page 40
+
+**Text:**
 
 CHAPTER 7: INTRODUCTION TO DAX 
 35 | P a g e                                                      
@@ -1297,15 +1464,17 @@ all the information related to the measure or column respectively.
  
 A DAX expression consists of a formula followed by a measure or a column reference.
 
-![Image Page 40 - 0](images/page40_img0.png)
+**Image 1:**
+![page40_img1.png](images/page40_img1.png)
 
-![Image Page 40 - 1](images/page40_img1.png)
+**Image 4:**
+![page40_img4.png](images/page40_img4.png)
 
-![Image Page 40 - 2](images/page40_img2.png)
-
-![Image Page 40 - 3](images/page40_img3.png)
+---
 
 ## Page 41
+
+**Text:**
 
 CHAPTER 7: INTRODUCTION TO DAX 
 36 | P a g e                                                      
@@ -1335,25 +1504,26 @@ Now let’s create a Total Cost column by multiplying Quantity Sold by Product C
 ▪ Total Cost (CC) = 'Sales Table'[Quantity Sold]*'Sales Table'[Product Cost 
 (CC)]
 
-![Image Page 41 - 0](images/page41_img0.png)
+**Image 1:**
+![page41_img1.png](images/page41_img1.png)
 
-![Image Page 41 - 1](images/page41_img1.png)
+**Image 3:**
+![page41_img3.png](images/page41_img3.png)
 
-![Image Page 41 - 2](images/page41_img2.png)
+**Image 5:**
+![page41_img5.png](images/page41_img5.png)
 
-![Image Page 41 - 3](images/page41_img3.png)
+**Image 7:**
+![page41_img7.png](images/page41_img7.png)
 
-![Image Page 41 - 4](images/page41_img4.png)
+**Image 9:**
+![page41_img9.png](images/page41_img9.png)
 
-![Image Page 41 - 5](images/page41_img5.png)
-
-![Image Page 41 - 6](images/page41_img6.png)
-
-![Image Page 41 - 7](images/page41_img7.png)
-
-![Image Page 41 - 8](images/page41_img8.png)
+---
 
 ## Page 42
+
+**Text:**
 
 CHAPTER 7: INTRODUCTION TO DAX 
 37 | P a g e                                                      
@@ -1389,17 +1559,20 @@ them from other data entities.
  
 Notice that each of the column has been formatted using Column Tools.
 
-![Image Page 42 - 0](images/page42_img0.png)
+**Image 1:**
+![page42_img1.png](images/page42_img1.png)
 
-![Image Page 42 - 1](images/page42_img1.png)
+**Image 3:**
+![page42_img3.png](images/page42_img3.png)
 
-![Image Page 42 - 2](images/page42_img2.png)
+**Image 5:**
+![page42_img5.png](images/page42_img5.png)
 
-![Image Page 42 - 3](images/page42_img3.png)
-
-![Image Page 42 - 4](images/page42_img4.png)
+---
 
 ## Page 43
+
+**Text:**
 
 CHAPTER 7: INTRODUCTION TO DAX 
 38 | P a g e                                                      
@@ -1433,21 +1606,23 @@ https://www.powerbitraining.com.au/category/dax/
 https://www.powerbitraining.com.au/category/dax-functions/ 
 https://www.powerbitraining.com.au/category/dax-studio/
 
-![Image Page 43 - 0](images/page43_img0.png)
+**Image 1:**
+![page43_img1.png](images/page43_img1.png)
 
-![Image Page 43 - 1](images/page43_img1.png)
+**Image 3:**
+![page43_img3.png](images/page43_img3.png)
 
-![Image Page 43 - 2](images/page43_img2.png)
+**Image 5:**
+![page43_img5.png](images/page43_img5.png)
 
-![Image Page 43 - 3](images/page43_img3.png)
+**Image 7:**
+![page43_img7.png](images/page43_img7.png)
 
-![Image Page 43 - 4](images/page43_img4.png)
-
-![Image Page 43 - 5](images/page43_img5.png)
-
-![Image Page 43 - 6](images/page43_img6.png)
+---
 
 ## Page 44
+
+**Text:**
 
 CHAPTER 8: DATA VISUALIZATION 
 39 | P a g e                                                      
@@ -1482,9 +1657,14 @@ Chapter 8
 ✓ Creating a Stacked Bar Chart 
 ✓ Creating a Slicer
 
-![Image Page 44 - 0](images/page44_img0.png)
+**Image 1:**
+![page44_img1.png](images/page44_img1.png)
+
+---
 
 ## Page 45
+
+**Text:**
 
 CHAPTER 8: DATA VISUALIZATION 
 40 | P a g e                                                      
@@ -1504,9 +1684,14 @@ Visualization pane against appropriate visuals.
 Filters Panel: 
 In the Filters pane, you configure which filters to include and update existing filters.
 
-![Image Page 45 - 0](images/page45_img0.png)
+**Image 1:**
+![page45_img1.png](images/page45_img1.png)
+
+---
 
 ## Page 46
+
+**Text:**
 
 CHAPTER 8: DATA VISUALIZATION 
 41 | P a g e                                                      
@@ -1527,17 +1712,20 @@ Column tools open.
 Cost”, Title Text Size > 15, Title Alignment > Centre, Title Background 
 Color > Black and Title Font Color > White.
 
-![Image Page 46 - 0](images/page46_img0.png)
+**Image 1:**
+![page46_img1.png](images/page46_img1.png)
 
-![Image Page 46 - 1](images/page46_img1.png)
+**Image 3:**
+![page46_img3.png](images/page46_img3.png)
 
-![Image Page 46 - 2](images/page46_img2.png)
+**Image 5:**
+![page46_img5.png](images/page46_img5.png)
 
-![Image Page 46 - 3](images/page46_img3.png)
-
-![Image Page 46 - 4](images/page46_img4.png)
+---
 
 ## Page 47
+
+**Text:**
 
 CHAPTER 8: DATA VISUALIZATION 
 42 | P a g e                                                      
@@ -1554,13 +1742,17 @@ To create an Area chart:
 5. Set the Title Text > Revenue and Profit by Transaction Date, Zoom slicer > 
 On.
 
-![Image Page 47 - 0](images/page47_img0.png)
+**Image 1:**
+![page47_img1.png](images/page47_img1.png)
 
-![Image Page 47 - 1](images/page47_img1.png)
+**Image 3:**
+![page47_img3.png](images/page47_img3.png)
 
-![Image Page 47 - 2](images/page47_img2.png)
+---
 
 ## Page 48
+
+**Text:**
 
 CHAPTER 8: DATA VISUALIZATION 
 43 | P a g e                                                      
@@ -1578,13 +1770,17 @@ City, Title Text Size > 15, Title Alignment > Centre, Title Background Color
 > #F2C811, Data Colors > #F2C811, Map Styles > Dark, Background > On, 
 Background Color > #F2C811 and Border > On.
 
-![Image Page 48 - 0](images/page48_img0.png)
+**Image 1:**
+![page48_img1.png](images/page48_img1.png)
 
-![Image Page 48 - 1](images/page48_img1.png)
+**Image 3:**
+![page48_img3.jpeg](images/page48_img3.jpeg)
 
-![Image Page 48 - 2](images/page48_img2.png)
+---
 
 ## Page 49
+
+**Text:**
 
 CHAPTER 8: DATA VISUALIZATION 
 44 | P a g e                                                      
@@ -1611,13 +1807,17 @@ To create a Donut Chart:
 Hovering with the mouse over the Donut Chart will display a tooltip with more information 
 including the percentage.
 
-![Image Page 49 - 0](images/page49_img0.png)
+**Image 1:**
+![page49_img1.png](images/page49_img1.png)
 
-![Image Page 49 - 1](images/page49_img1.png)
+**Image 3:**
+![page49_img3.png](images/page49_img3.png)
 
-![Image Page 49 - 2](images/page49_img2.png)
+---
 
 ## Page 50
+
+**Text:**
 
 CHAPTER 8: DATA VISUALIZATION 
 45 | P a g e                                                      
@@ -1640,13 +1840,17 @@ of top items in a visual based on the given value.
 10. Click on Paint Roller Icon to access Format options. 
 11. Set the Title > Revenue for top 3 Countries by Product Type.
 
-![Image Page 50 - 0](images/page50_img0.png)
+**Image 1:**
+![page50_img1.png](images/page50_img1.png)
 
-![Image Page 50 - 1](images/page50_img1.png)
+**Image 3:**
+![page50_img3.png](images/page50_img3.png)
 
-![Image Page 50 - 2](images/page50_img2.png)
+---
 
 ## Page 51
+
+**Text:**
 
 CHAPTER 8: DATA VISUALIZATION 
 46 | P a g e                                                      
@@ -1682,13 +1886,17 @@ To create a Slicer:
  
 Filters Pane on the right side configures visual, page and report level filters.
 
-![Image Page 51 - 0](images/page51_img0.png)
+**Image 1:**
+![page51_img1.png](images/page51_img1.png)
 
-![Image Page 51 - 1](images/page51_img1.png)
+**Image 3:**
+![page51_img3.png](images/page51_img3.png)
 
-![Image Page 51 - 2](images/page51_img2.png)
+---
 
 ## Page 52
+
+**Text:**
 
 CHAPTER 9: PUBLISH AND SHARE 
 47 | P a g e                                                      
@@ -1717,9 +1925,14 @@ Chapter 9
 ✓ Save and Publish to My Workspace 
 ✓ Sharing the Report
 
-![Image Page 52 - 0](images/page52_img0.png)
+**Image 1:**
+![page52_img1.png](images/page52_img1.png)
+
+---
 
 ## Page 53
+
+**Text:**
 
 CHAPTER 9: PUBLISH AND SHARE 
 48 | P a g e                                                      
@@ -1735,17 +1948,26 @@ we can create dashboards and share them with other stakeholders.
  
 5. Select the appropriate Workspace and click Select.
 
-![Image Page 53 - 0](images/page53_img0.png)
+**Image 1:**
+![page53_img1.png](images/page53_img1.png)
 
-![Image Page 53 - 1](images/page53_img1.png)
+**Image 2:**
+![page53_img2.png](images/page53_img2.png)
 
-![Image Page 53 - 2](images/page53_img2.png)
+**Image 3:**
+![page53_img3.png](images/page53_img3.png)
 
-![Image Page 53 - 3](images/page53_img3.png)
+**Image 4:**
+![page53_img4.png](images/page53_img4.png)
 
-![Image Page 53 - 4](images/page53_img4.png)
+**Image 5:**
+![page53_img5.png](images/page53_img5.png)
+
+---
 
 ## Page 54
+
+**Text:**
 
 CHAPTER 9: PUBLISH AND SHARE 
 49 | P a g e                                                      
@@ -1778,11 +2000,17 @@ To understand the visuals in more depth, download the Crash Course file from the
 link and access the complete Power BI report:   
 https://www.powerbitraining.com.au/powerbidesktopcrashcoursedownloads/
 
-![Image Page 54 - 0](images/page54_img0.png)
+**Image 1:**
+![page54_img1.png](images/page54_img1.png)
 
-![Image Page 54 - 1](images/page54_img1.png)
+**Image 2:**
+![page54_img2.png](images/page54_img2.png)
+
+---
 
 ## Page 55
+
+**Text:**
 
 CHAPTER 9: PUBLISH AND SHARE 
 50 | P a g e                                                      
@@ -1801,17 +2029,20 @@ In the Report tab, list of all the Published Reports can be seen.
 5. In the given field enter Email address of person you want to share the Report with. 
 6. You can include a message as well for the recipient.
 
-![Image Page 55 - 0](images/page55_img0.png)
+**Image 1:**
+![page55_img1.png](images/page55_img1.png)
 
-![Image Page 55 - 1](images/page55_img1.png)
+**Image 3:**
+![page55_img3.jpeg](images/page55_img3.jpeg)
 
-![Image Page 55 - 2](images/page55_img2.png)
+**Image 5:**
+![page55_img5.png](images/page55_img5.png)
 
-![Image Page 55 - 3](images/page55_img3.png)
-
-![Image Page 55 - 4](images/page55_img4.png)
+---
 
 ## Page 56
+
+**Text:**
 
 POWER BI QUIZ 
 51 | P a g e                                                      
@@ -1837,13 +2068,20 @@ understanding of Power BI:
 https://www.powerbitraining.com.au/power-bi-
 crash-course-quiz/
 
-![Image Page 56 - 0](images/page56_img0.png)
+**Image 1:**
+![page56_img1.png](images/page56_img1.png)
 
-![Image Page 56 - 1](images/page56_img1.png)
+**Image 2:**
+![page56_img2.png](images/page56_img2.png)
 
-![Image Page 56 - 2](images/page56_img2.png)
+**Image 3:**
+![page56_img3.png](images/page56_img3.png)
+
+---
 
 ## Page 57
+
+**Text:**
 
 COMPANY INFORMATION 
 52 | P a g e                                                      
@@ -1896,10 +2134,13 @@ https://www.powerbitraining.com.au/dax-course/
 https://amzconsulting.com.au/ 
 https://www.powerbitraining.com.au/
 
-![Image Page 57 - 0](images/page57_img0.png)
+**Image 1:**
+![page57_img1.png](images/page57_img1.png)
 
-![Image Page 57 - 1](images/page57_img1.png)
+**Image 3:**
+![page57_img3.jpeg](images/page57_img3.jpeg)
 
-![Image Page 57 - 2](images/page57_img2.png)
+**Image 4:**
+![page57_img4.png](images/page57_img4.png)
 
-![Image Page 57 - 3](images/page57_img3.png)
+---
